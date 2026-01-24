@@ -124,8 +124,8 @@
     </resolve>
 
     <favorite
-        launcher:packageName="org.lineageos.twelve"
-        launcher:className="org.lineageos.twelve.MainActivity"
+        launcher:packageName="org.strixos.twelve"
+        launcher:className="org.strixos.twelve.MainActivity"
         launcher:screen="1"
         launcher:x="2"
         launcher:y="-1" />

@@ -34,7 +34,7 @@ import com.android.launcher3.dagger.LauncherBaseAppComponent;
 import com.android.launcher3.concurrent.annotations.LightweightBackground;
 import static com.android.launcher3.concurrent.annotations.LightweightBackgroundPriority.UI;
 
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import java.util.List;
 import java.util.Map;
