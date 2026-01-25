@@ -124,7 +124,7 @@ import com.android.systemui.shared.system.QuickStepContract.SystemUiStateFlags;
 import com.android.systemui.unfold.UnfoldTransitionProgressProvider;
 import com.android.systemui.unfold.util.ScopedUnfoldTransitionProgressProvider;
 
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import kotlinx.coroutines.CoroutineDispatcher;
 
