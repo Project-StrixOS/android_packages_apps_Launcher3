@@ -111,7 +111,7 @@ import com.android.wm.shell.shared.desktopmode.DesktopState;
 
 import kotlin.Unit;
 
-import lineageos.providers.LineageSettings;
+import strixos.providers.LineageSettings;
 
 import kotlinx.coroutines.CoroutineDispatcher;
 

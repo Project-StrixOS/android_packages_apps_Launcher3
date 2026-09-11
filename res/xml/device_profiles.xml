@@ -248,7 +248,7 @@
         launcher:name="5_by_7"
         launcher:numRows="7"
         launcher:numColumns="5"
-        launcher:numFolderRows="6"
+        launcher:numFolderRows="5"
         launcher:numFolderColumns="4"
         launcher:numHotseatIcons="5"
         launcher:dbFile="launcher_5_by_7.db"
